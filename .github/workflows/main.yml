@@ -1,0 +1,9 @@
+uses: kevinpainchaud/simple-ftp-deploy-action@v1.2.1
+with:
+  ftp_host: ${{ secrets.storage.bunnycdn.com }}
+  ftp_username: ${{ secrets.ichanneltech2 }}
+  ftp_password: ${{ 81394996-ef59-4b3a-83d531b05ae5-18d6-4923 }}
+  local_source_dir: "dist"
+  dist_target_dir: "/ichanneltech2/"
+  delete: "false"
+  exclude: "'^logs/' '^README.md'"

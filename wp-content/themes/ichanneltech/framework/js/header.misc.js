@@ -1,6 +1,6 @@
 'use strict';
 
-var bt_initHeader;
+var bt_initHeader; 
 
 (function( $ ) {
 	
@@ -123,6 +123,7 @@ var bt_initHeader;
 		$( '.mainHeader .logo' ).css( 'width', logoWidth + 'px' );
 		$( '.menuPort nav.leftNav' ).attr( 'style', '--margin:' + Math.round( logoWidth * .5 ) + 'px;margin-right:' + Math.round( logoWidth * .5 ) + 'px;' );
 		$( '.menuPort nav.rightNav' ).attr( 'style', '--margin:' + Math.round( logoWidth * .5 ) + 'px;margin-left:' + Math.round( logoWidth * .5 ) + 'px;' );
+		boldthemes_calculate_content_padding();
 	}
 	
 	/* Activate sticky function and call */
@@ -270,6 +271,8 @@ var bt_initHeader;
 		$( 'div.subToggler' ).on( 'click', function(e) {
 			var parent_item = $( this ).parent();
 			parent_item.siblings().removeClass( 'on' );
+          	parent_item.siblings().find( 'li' ).removeClass( 'on' );
+          	parent_item.siblings().find( 'ul' ).hide();
 			parent_item.toggleClass( 'on' );
 			if ( parent_item.parent().hasClass( 'menu' ) ) parent_item.parent().toggleClass( 'hover' );
 			if ( $( 'body' ).hasClass( 'btMenuVertical' ) ) {
@@ -290,7 +293,8 @@ var bt_initHeader;
 				$( '.btContentWrap, .bt-content-wrap' ).css( 'padding-top', $( '.btVerticalHeaderTop, .bt-vertical-header-top' ).height() +'px');
 			} else if ( !$( 'body' ).hasClass( 'btStickyHeaderActive' ) ) {
 				$( '.btContentWrap, .bt-content-wrap' ).css( 'padding-top', $( '.mainHeader' ).height() +'px');
-			}	
+			}
+			/*alert(1);*/
 		}
 	}
 

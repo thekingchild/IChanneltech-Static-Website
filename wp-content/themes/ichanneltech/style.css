@@ -1,14 +1,14 @@
-﻿/* 
-Theme Name: ichanneltech
-Theme URI: https://ichanneltech.com
-Description: Consulting business .
-Version: 1.1.7
-Author:
-Author URI: https://ichanneltech.com
+/* 
+Theme Name: ichanneltechnologies
+Theme URI: 
+Description: Consulting business theme.
+Version: 1.2.6
+Author: 
+Author URI: 
 Tags: one-column, right-sidebar, custom-menu, featured-images, sticky-post, theme-options, threaded-comments, translation-ready
 Text Domain: nifty
-License: GNU General Public License version 3.0
-License URI:  http://www.gnu.org/licenses/gpl-3.0.html 
+License: GNU General Public License version 3.0 & Envato Regular/Extended License
+License URI:  http://www.gnu.org/licenses/gpl-3.0.html & http://themeforest.net/licenses
 
 All PHP code is released under the GNU General Public Licence version 3.0
 All HTML/CSS/JAVASCRIPT code is released under Envato's Regular/Extended License
@@ -638,7 +638,7 @@ h6 {
     line-height: 1.2;
     margin: 0;
     font-weight: 600;
-    letter-spacing: -2px;
+    letter-spacing: -1px;
     }
 .btHeadingWeight_default h1,
 .btHeadingWeight_default h2,
@@ -1218,7 +1218,7 @@ body.error404 .btErrorPage .port .bt_bb_button.bt_bb_style_filled a {
     box-shadow: 0 0 0 4em #057485 inset;
     transition: all 300ms ease;
     font-family: "Nunito Sans",Arial,Helvetica,sans-serif;
-    letter-spacing: -1px;
+    letter-spacing: 0px;
     }
 .btButtonWeight_default body.error404 .btErrorPage .port .bt_bb_button.bt_bb_style_filled a {
     font-weight: 700;
@@ -1377,7 +1377,7 @@ body.btBelowMenu .btPageHeadline .bt_bb_port {
     font-size: .9em;
     line-height: 1;
     border: none;
-    letter-spacing: -1px;
+    letter-spacing: 0px;
     color: #fff;
     box-shadow: 0 0 0 4em #057485 inset;
     transition: all 300ms ease;
@@ -1392,7 +1392,7 @@ body.btBelowMenu .btPageHeadline .bt_bb_port {
     }
 .bt-no-search-results .bt_bb_port .bt_bb_button.bt_bb_style_filled a {
     padding: 1em 1.3em;
-    letter-spacing: -1px;
+    letter-spacing: 0px;
     color: #fff;
     box-shadow: 0 0 0 4em #057485 inset;
     background-color: transparent;
@@ -1597,7 +1597,7 @@ body.btBelowMenu .btPageHeadline .bt_bb_port {
 .btTextLogo {
     font-size: 1.8em;
     font-family: "Spartan",Arial,Helvetica,sans-serif;
-    letter-spacing: -2px;
+    letter-spacing: -1px;
     z-index: 6;
     line-height: 80px;
     }
@@ -4771,7 +4771,7 @@ article .post-password-form {
 .btPagination {
     font-size: 1rem;
     font-family: "Nunito Sans",Arial,Helvetica,sans-serif;
-    letter-spacing: -1px;
+    letter-spacing: 0px;
     line-height: 2.5rem;
     margin-top: 2em;
     margin-bottom: 4em;
@@ -4923,7 +4923,7 @@ body:not(.bt_bb_plugin_active).btNoSidebar .btPrevNextNav {
     }
 .btPrevNextNav .btPrevNext .btPrevNextItem .btPrevNextTitle {
     font-size: 1.1rem;
-    letter-spacing: -2px;
+    letter-spacing: -1px;
     font-family: "Spartan",Arial,Helvetica,sans-serif;
     transition: color 200ms ease;
     overflow: hidden;
@@ -5585,7 +5585,7 @@ body.btNoSidebar .bt-comments-box .comment-respond .comment-form {
     display: inline-block;
     line-height: 1;
     font-family: "Nunito Sans",Arial,Helvetica,sans-serif;
-    letter-spacing: -1px;
+    letter-spacing: 0px;
     }
 .btButtonWeight_default .bt-comments-box .commentTxt p.edit-link,
 .btButtonWeight_default .bt-comments-box .commentTxt p.reply {
@@ -5691,7 +5691,7 @@ a#cancel-comment-reply-link {
     color: #057485;
     font-size: .9rem;
     font-family: "Nunito Sans",Arial,Helvetica,sans-serif;
-    letter-spacing: -1px;
+    letter-spacing: 0px;
     }
 .btButtonWeight_default a#cancel-comment-reply-link {
     font-weight: 700;
@@ -5737,7 +5737,7 @@ a#cancel-comment-reply-link:hover {
     border: none;
     color: #fff;
     box-shadow: 0 0 0 4em #057485 inset;
-    letter-spacing: -1px;
+    letter-spacing: 0px;
     font-family: "Nunito Sans",Arial,Helvetica,sans-serif;
     transition: all 300ms ease;
     }
@@ -6183,7 +6183,7 @@ body:not(.btNoDashInSidebar) .btTopBox > h4:after {
     }
 .widget_calendar table caption {
     font-family: "Spartan",Arial,Helvetica,sans-serif;
-    letter-spacing: -2px;
+    letter-spacing: -1px;
     font-weight: 700;
     padding: 5px;
     background: #057485;
@@ -6264,7 +6264,7 @@ body:not(.btNoDashInSidebar) .btTopBox > h4:after {
     padding: 1em 0;
     }
 .widget_rss li a.rsswidget {
-    letter-spacing: -2px;
+    letter-spacing: -1px;
     font-family: "Spartan",Arial,Helvetica,sans-serif;
     }
 .btHeadingWeight_default .widget_rss li a.rsswidget {
@@ -6362,7 +6362,7 @@ body:not(.btNoDashInSidebar) .btTopBox > h4:after {
     width: 100%;
     padding: 1em 0 0;
     font-family: "Spartan",Arial,Helvetica,sans-serif;
-    letter-spacing: -2px;
+    letter-spacing: -1px;
     line-height: 1.25;
     border-top: 2px solid rgba(0,0,0,.1);
     }
@@ -6620,7 +6620,7 @@ body:not(.btNoDashInSidebar) .btTopBox > h4:after {
 .widget_recent_reviews {
     font-size: .8em;
     font-family: "Spartan",Arial,Helvetica,sans-serif;
-    letter-spacing: -2px;
+    letter-spacing: -1px;
     line-height: 1.4;
     }
 .widget_recent_reviews li a img {
@@ -7393,7 +7393,7 @@ btStickyHeaderOpen .btLargeSize.btButtonWidget .btButtonWidgetLink {
     }
 .btButtonWidget .btButtonWidgetLink .btButtonWidgetContent span.btButtonWidgetText {
     font-family: "Nunito Sans",Arial,Helvetica,sans-serif;
-    letter-spacing: -1px;
+    letter-spacing: 0px;
     line-height: 1;
     padding: 0;
     }
@@ -9535,7 +9535,7 @@ btStickyHeaderOpen .btButtonWidget.btLightDarkButton.btOutlineButton .btButtonWi
     }
 .bt_bb_button .bt_bb_button_text {
     font-family: "Nunito Sans",Arial,Helvetica,sans-serif;
-    letter-spacing: -1px;
+    letter-spacing: 0px;
     }
 .btButtonWeight_default .bt_bb_button .bt_bb_button_text {
     font-weight: 700;
@@ -10147,7 +10147,7 @@ btStickyHeaderOpen .btButtonWidget.btLightDarkButton.btOutlineButton .btButtonWi
     display: flex;
     transition: none;
     font-family: "Nunito Sans",Arial,Helvetica,sans-serif;
-    letter-spacing: -1px;
+    letter-spacing: 0px;
     }
 .btButtonWeight_default .bt_bb_latest_posts .bt_bb_latest_posts_item .bt_bb_latest_posts_item_content .bt_bb_latest_posts_read_more a {
     font-weight: 700;
@@ -10963,7 +10963,7 @@ button.slick-arrow.slick-prev {
     font-size: 1.5em;
     line-height: 1.2;
     text-transform: capitalize;
-    letter-spacing: -2px;
+    letter-spacing: -1px;
     font-family: "Spartan",Arial,Helvetica,sans-serif;
     }
 .btHeadingWeight_default .bt_bb_countdown.btCounterHolder .btCountdownHolder span[class$="_text"] > span {
@@ -11033,6 +11033,10 @@ button.slick-arrow.slick-prev {
 .bt_bb_style_outline.bt_bb_accordion .bt_bb_accordion_item {
     border: 1px solid #d2d2d2 !important;
     }
+.bt_bb_style_outline.bt_bb_accordion .bt_bb_accordion_item.on .bt_bb_accordion_item_top .bt_bb_accordion_item_title,
+.bt_bb_style_simple.bt_bb_accordion .bt_bb_accordion_item.on .bt_bb_accordion_item_top .bt_bb_accordion_item_title {
+    color: inherit !important;
+    }
 .bt_bb_accordion .bt_bb_accordion_item .bt_bb_accordion_item_top {
     display: flex;
     align-items: center;
@@ -11051,9 +11055,9 @@ button.slick-arrow.slick-prev {
     display: block;
     z-index: 3;
     position: absolute;
-    right: 0;
+    right: .5rem;
     top: 0;
-    margin-top: .2em;
+    margin-top: .25em;
     }
 .bt_bb_style_filled .bt_bb_accordion .bt_bb_accordion_item .bt_bb_accordion_item_top:after,
 .bt_bb_style_outline .bt_bb_accordion .bt_bb_accordion_item .bt_bb_accordion_item_top:after {
@@ -11077,6 +11081,8 @@ button.slick-arrow.slick-prev {
     color: #057485;
     padding-right: .7em;
     font-weight: 600;
+    transition: 350ms ease all;
+    max-width: 2em;
     }
 .bt_bb_accordion .bt_bb_accordion_item .bt_bb_accordion_item_top .bt_bb_accordion_item_title {
     font-size: 1em;
@@ -11085,6 +11091,16 @@ button.slick-arrow.slick-prev {
     font-family: "Spartan",Arial,Helvetica,sans-serif;
     transition: none;
     font-weight: 600;
+    width: calc(100% - 2em);
+    }
+.bt_bb_style_outline.bt_bb_accordion .bt_bb_accordion_item .bt_bb_accordion_item_top .bt_bb_accordion_item_title:hover,
+.bt_bb_style_simple.bt_bb_accordion .bt_bb_accordion_item .bt_bb_accordion_item_top .bt_bb_accordion_item_title:hover {
+    color: inherit !important;
+    }
+.bt_bb_style_filled.bt_bb_accordion .bt_bb_accordion_item .bt_bb_accordion_item_top .bt_bb_accordion_item_title,
+.bt_bb_style_outline.bt_bb_accordion .bt_bb_accordion_item .bt_bb_accordion_item_top .bt_bb_accordion_item_title {
+    color: inherit !important;
+    background: transparent !important;
     }
 .bt_bb_accordion .bt_bb_accordion_item .bt_bb_accordion_item_content {
     flex: 1 0 100%;
@@ -11182,10 +11198,11 @@ button.slick-arrow.slick-prev {
 .bt_bb_price_list .bt_bb_price_list_title {
     font-size: 1.75rem;
     line-height: 1.3;
-    letter-spacing: -2px;
+    letter-spacing: -1px;
     font-family: "Spartan",Arial,Helvetica,sans-serif;
     color: #057485;
     padding: 1rem 2rem;
+    background-color: transparent;
     }
 .btHeadingWeight_default .bt_bb_price_list .bt_bb_price_list_title {
     font-weight: 600;
@@ -11282,7 +11299,7 @@ button.slick-arrow.slick-prev {
     }
 .bt_bb_price_list .bt_bb_price_list_price {
     font-family: "Spartan",Arial,Helvetica,sans-serif;
-    letter-spacing: -2px;
+    letter-spacing: -1px;
     }
 .btHeadingWeight_default .bt_bb_price_list .bt_bb_price_list_price {
     font-weight: 600;
@@ -11347,7 +11364,7 @@ button.slick-arrow.slick-prev {
 .wpcf7-form .wpcf7-submit {
     font-size: .8em !important;
     font-family: "Nunito Sans",Arial,Helvetica,sans-serif;
-    letter-spacing: -1px;
+    letter-spacing: 0px;
     cursor: pointer;
     width: auto !important;
     padding: 0 3em !important;
@@ -12671,7 +12688,7 @@ svg .blue-color {
     line-height: 1.4;
     display: block;
     font-family: "Spartan",Arial,Helvetica,sans-serif;
-    letter-spacing: -2px;
+    letter-spacing: -1px;
     color: inherit;
     position: relative;
     z-index: 1;
@@ -14100,7 +14117,7 @@ div.woocommerce button.alt:hover {
     cursor: pointer;
     background-color: transparent;
     transition: all 300ms ease;
-    letter-spacing: -1px;
+    letter-spacing: 0px;
     }
 .btHardRoundedButtons.woocommerce .btSidebar a.button,
 .btHardRoundedButtons.woocommerce .bt-content a.button,
@@ -15392,7 +15409,7 @@ to {
 .btQuoteBooking .btContactNext {
     font-size: 1em;
     font-family: "Nunito Sans",Arial,Helvetica,sans-serif;
-    letter-spacing: -1px;
+    letter-spacing: 0px;
     border: none;
     border-radius: 0;
     margin-left: 1em;
@@ -15449,7 +15466,7 @@ to {
 .btQuoteBooking .btQuoteContact .boldBtn .btContactSubmit {
     font-size: 1em;
     font-family: "Nunito Sans",Arial,Helvetica,sans-serif;
-    letter-spacing: -1px;
+    letter-spacing: 0px;
     line-height: inherit;
     text-transform: capitalize;
     color: #fff;

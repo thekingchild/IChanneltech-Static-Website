@@ -5,9 +5,6 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -21,16 +18,16 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<generator>https://wordpress.org/?v=6.2</generator>
 
 <image>
-	<url>https://i0.wp.com/static.bsahearing.com/wp-content/uploads/2022/09/cropped-Box-logo.jpg?fit=32%2C32&#038;ssl=1</url>
+	<url>./../wp-content/uploads/2022/09/cropped-Box-logo-32x32.jpg</url>
 	<title>IChannel Technologies</title>
 	<link>./../index.html</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
-<site xmlns="com-wordpress:feed-additions:1">211629877</site>	<item>
+	<item>
 		<title>ICYMI: Developer Week 2022 announcements</title>
 		<link>./../icymi-developer-week-2022-announcements/index.html?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=icymi-developer-week-2022-announcements</link>
 		
@@ -44,7 +41,7 @@
 		
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">3576</post-id>	</item>
+			</item>
 		<item>
 		<title>UPDATE Supercloud SET status = &#039;open alpha&#039; WHERE product = &#039;D1&#039;;</title>
 		<link>./../update-supercloud-set-status-open-alpha-where-product-d1/index.html?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=update-supercloud-set-status-open-alpha-where-product-d1</link>
@@ -59,7 +56,7 @@
 		
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">3574</post-id>	</item>
+			</item>
 		<item>
 		<title>2022 US midterm elections attack analysis</title>
 		<link>./../2022-us-midterm-elections-attack-analysis/index.html?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=2022-us-midterm-elections-attack-analysis</link>
@@ -74,7 +71,7 @@
 		
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">3572</post-id>	</item>
+			</item>
 		<item>
 		<title>Cloudflare is not affected by the OpenSSL vulnerabilities CVE-2022-3602 and CVE-2022-3786</title>
 		<link>./../cloudflare-is-not-affected-by-the-openssl-vulnerabilities-cve-2022-3602-and-cve-2022-3786/index.html?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=cloudflare-is-not-affected-by-the-openssl-vulnerabilities-cve-2022-3602-and-cve-2022-3786</link>
@@ -89,7 +86,7 @@
 		
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">3570</post-id>	</item>
+			</item>
 		<item>
 		<title>How the Brazilian Presidential elections affected Internet traffic</title>
 		<link>./../how-the-brazilian-presidential-elections-affected-internet-traffic/index.html?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=how-the-brazilian-presidential-elections-affected-internet-traffic</link>
@@ -104,7 +101,7 @@
 		
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">3568</post-id>	</item>
+			</item>
 		<item>
 		<title>Stronger than a promise: proving Oblivious HTTP privacy properties</title>
 		<link>./../stronger-than-a-promise-proving-oblivious-http-privacy-properties/index.html?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=stronger-than-a-promise-proving-oblivious-http-privacy-properties</link>
@@ -119,7 +116,7 @@
 		
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">3566</post-id>	</item>
+			</item>
 		<item>
 		<title>Privacy Gateway: a privacy preserving proxy built on Internet standards</title>
 		<link>./../privacy-gateway-a-privacy-preserving-proxy-built-on-internet-standards/index.html?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=privacy-gateway-a-privacy-preserving-proxy-built-on-internet-standards</link>
@@ -134,7 +131,7 @@
 		
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">3564</post-id>	</item>
+			</item>
 		<item>
 		<title>Page Shield can now watch for malicious outbound connections made by third-party JavaScript code</title>
 		<link>./../page-shield-can-now-watch-for-malicious-outbound-connections-made-by-third-party-javascript-code/index.html?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=page-shield-can-now-watch-for-malicious-outbound-connections-made-by-third-party-javascript-code</link>
@@ -149,7 +146,7 @@
 		
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">3562</post-id>	</item>
+			</item>
 		<item>
 		<title>Internet disruptions overview for Q3 2022</title>
 		<link>./../internet-disruptions-overview-for-q3-2022/index.html?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=internet-disruptions-overview-for-q3-2022</link>
@@ -167,7 +164,7 @@
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">3553</post-id>	</item>
+			</item>
 		<item>
 		<title>Making peering easy with the new Cloudflare Peering Portal</title>
 		<link>./../making-peering-easy-with-the-new-cloudflare-peering-portal/index.html?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=making-peering-easy-with-the-new-cloudflare-peering-portal</link>
@@ -185,6 +182,6 @@
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">3524</post-id>	</item>
+			</item>
 	</channel>
 </rss>

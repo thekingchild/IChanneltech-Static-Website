@@ -17,8 +17,18 @@ function bt_refresh_cart() {
 	
 	function initFancySelect() {
 		if ( typeof $.fn.fancySelect === 'function' ) {
-			$( '.no-touch .btSidebar select, .no-touch select.orderby, .no-touch #btSettingsPanelContent select, .no-touch .wpcf7-form select:not([multiple]):not(.skipFancy)' ).fancySelect();	
+			$( '.no-touch .btSidebar select:not(.dropdown_product_cat), .no-touch #btSettingsPanelContent select, .no-touch .wpcf7-form select:not([multiple]):not(.skipFancy)' ).fancySelect();	
 		} 
+	}
+	
+	function initDateInputCheck() {
+		$( '.wpcf7-form .wpcf7-date' ).change( function( i, obj ) {
+			if( $( this ).val() != '' ) {
+				$( this ).addClass( 'bt-date-input-has-value' );
+			} else {
+				$( this ).removeClass( 'bt-date-input-has-value' );
+			}
+		});	
 	}
 	
 	function loadInitActions() {
@@ -124,12 +134,12 @@ function bt_refresh_cart() {
 	
 	function initTheme() {
 		initFancySelect();
+		initDateInput();
 		initFooter();
 		initModernizrAndDetectBrowser();
 		initPreloader();
 		initRefreshCart();
 		loadInitActions();
-		
 	}
 	
 	// LOAD
@@ -168,6 +178,7 @@ function bt_refresh_cart() {
 	}
 
 	initFancySelect();
+	initDateInputCheck();
 	initFooter();
 	initModernizrAndDetectBrowser();
 	initPreloader();

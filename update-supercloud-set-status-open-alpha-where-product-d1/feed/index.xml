@@ -8,14 +8,14 @@
 <channel>
 	<title>
 	Comments on: UPDATE Supercloud SET status = &#039;open alpha&#039; WHERE product = &#039;D1&#039;;	</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../index.html?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=update-supercloud-set-status-open-alpha-where-product-d1</link>
+	<atom:link href="/update-supercloud-set-status-open-alpha-where-product-d1/feed/" rel="self" type="application/rss+xml" />
+	<link>/update-supercloud-set-status-open-alpha-where-product-d1/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=update-supercloud-set-status-open-alpha-where-product-d1</link>
 	<description>Software, Cloud Solutions and IT Consulting</description>
 	<lastBuildDate>Thu, 17 Nov 2022 10:40:01 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.2</generator>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
 </channel>
 </rss>

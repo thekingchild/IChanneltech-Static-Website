@@ -2,8 +2,8 @@
 /*  7-stroke (http://themes-pixeden.com/font-demos/7-stroke/index.html) */
 @font-face {
     font-family: 'Icon7Stroke';
-    src: url(./assets/fonts/Pe-icon-7-stroke.eot?d7yf1v);
-    src: url(./assets/fonts/Pe-icon-7-stroke.eot#iefixd7yf1v) format('embedded-opentype'),url(./assets/fonts/Pe-icon-7-stroke.woff?d7yf1v) format('woff'),url(./assets/fonts/Pe-icon-7-stroke.ttf?d7yf1v) format('truetype'),url(./assets/fonts/Pe-icon-7-stroke.svg?d7yf1v#Pe-icon-7-stroke) format('svg');
+    src: url(/wp-content/plugins/bold-timeline-lite/assets/fonts/Pe-icon-7-stroke.eot?d7yf1v);
+    src: url(/wp-content/plugins/bold-timeline-lite/assets/fonts/Pe-icon-7-stroke.eot#iefixd7yf1v) format('embedded-opentype'),url(/wp-content/plugins/bold-timeline-lite/assets/fonts/Pe-icon-7-stroke.woff?d7yf1v) format('woff'),url(/wp-content/plugins/bold-timeline-lite/assets/fonts/Pe-icon-7-stroke.ttf?d7yf1v) format('truetype'),url(/wp-content/plugins/bold-timeline-lite/assets/fonts/Pe-icon-7-stroke.svg?d7yf1v#Pe-icon-7-stroke) format('svg');
     font-weight: normal;
     font-style: normal;
     }
@@ -11,7 +11,7 @@
 /* FontAwesome5Brands */
 @font-face {
     font-family: 'FontAwesome5Brands';
-    src: url(./assets/fonts/FontAwesome5Brands.woff?v=1.1.1) format('woff'),url(./assets/fonts/FontAwesome5Brands.ttf?v=1.1.1) format('truetype');
+    src: url(/wp-content/plugins/bold-timeline-lite/assets/fonts/FontAwesome5Brands.woff?v=1.1.1) format('woff'),url(/wp-content/plugins/bold-timeline-lite/assets/fonts/FontAwesome5Brands.ttf?v=1.1.1) format('truetype');
     font-weight: normal;
     font-style: normal;
     }
@@ -19,8 +19,8 @@
 /* FontAwesome */
 @font-face {
     font-family: 'FontAwesome';
-    src: url(./assets/fonts/fontawesome-webfont.eot?v=4.6.3);
-    src: url(./assets/fonts/fontawesome-webfont.eot#iefix&v=4.6.3) format('embedded-opentype'),url(./assets/fonts/fontawesome-webfont.woff2?v=4.6.3) format('woff2'),url(./assets/fonts/fontawesome-webfont.woff?v=4.6.3) format('woff'),url(./assets/fonts/fontawesome-webfont.ttf?v=4.6.3) format('truetype'),url(./assets/fonts/fontawesome-webfont.svg?v=4.6.3#fontawesomeregular) format('svg');
+    src: url(/wp-content/plugins/bold-timeline-lite/assets/fonts/fontawesome-webfont.eot?v=4.6.3);
+    src: url(/wp-content/plugins/bold-timeline-lite/assets/fonts/fontawesome-webfont.eot#iefix&v=4.6.3) format('embedded-opentype'),url(/wp-content/plugins/bold-timeline-lite/assets/fonts/fontawesome-webfont.woff2?v=4.6.3) format('woff2'),url(/wp-content/plugins/bold-timeline-lite/assets/fonts/fontawesome-webfont.woff?v=4.6.3) format('woff'),url(/wp-content/plugins/bold-timeline-lite/assets/fonts/fontawesome-webfont.ttf?v=4.6.3) format('truetype'),url(/wp-content/plugins/bold-timeline-lite/assets/fonts/fontawesome-webfont.svg?v=4.6.3#fontawesomeregular) format('svg');
     font-weight: normal;
     font-style: normal;
     }
@@ -67,8 +67,8 @@
 /*  7-stroke (http://themes-pixeden.com/font-demos/7-stroke/index.html) */
 @font-face {
     font-family: 'Icon7Stroke';
-    src: url(./assets/fonts/Pe-icon-7-stroke.eot?d7yf1v);
-    src: url(./assets/fonts/Pe-icon-7-stroke.eot#iefixd7yf1v) format('embedded-opentype'),url(./assets/fonts/Pe-icon-7-stroke.woff?d7yf1v) format('woff'),url(./assets/fonts/Pe-icon-7-stroke.ttf?d7yf1v) format('truetype'),url(./assets/fonts/Pe-icon-7-stroke.svg?d7yf1v#Pe-icon-7-stroke) format('svg');
+    src: url(/wp-content/plugins/bold-timeline-lite/assets/fonts/Pe-icon-7-stroke.eot?d7yf1v);
+    src: url(/wp-content/plugins/bold-timeline-lite/assets/fonts/Pe-icon-7-stroke.eot#iefixd7yf1v) format('embedded-opentype'),url(/wp-content/plugins/bold-timeline-lite/assets/fonts/Pe-icon-7-stroke.woff?d7yf1v) format('woff'),url(/wp-content/plugins/bold-timeline-lite/assets/fonts/Pe-icon-7-stroke.ttf?d7yf1v) format('truetype'),url(/wp-content/plugins/bold-timeline-lite/assets/fonts/Pe-icon-7-stroke.svg?d7yf1v#Pe-icon-7-stroke) format('svg');
     font-weight: normal;
     font-style: normal;
     }
@@ -76,7 +76,7 @@
 /* FontAwesome5Brands */
 @font-face {
     font-family: 'FontAwesome5Brands';
-    src: url(./assets/fonts/FontAwesome5Brands.woff?v=1.1.1) format('woff'),url(./assets/fonts/FontAwesome5Brands.ttf?v=1.1.1) format('truetype');
+    src: url(/wp-content/plugins/bold-timeline-lite/assets/fonts/FontAwesome5Brands.woff?v=1.1.1) format('woff'),url(/wp-content/plugins/bold-timeline-lite/assets/fonts/FontAwesome5Brands.ttf?v=1.1.1) format('truetype');
     font-weight: normal;
     font-style: normal;
     }
@@ -84,8 +84,8 @@
 /* FontAwesome */
 @font-face {
     font-family: 'FontAwesome';
-    src: url(./assets/fonts/fontawesome-webfont.eot?v=4.6.3);
-    src: url(./assets/fonts/fontawesome-webfont.eot#iefix&v=4.6.3) format('embedded-opentype'),url(./assets/fonts/fontawesome-webfont.woff2?v=4.6.3) format('woff2'),url(./assets/fonts/fontawesome-webfont.woff?v=4.6.3) format('woff'),url(./assets/fonts/fontawesome-webfont.ttf?v=4.6.3) format('truetype'),url(./assets/fonts/fontawesome-webfont.svg?v=4.6.3#fontawesomeregular) format('svg');
+    src: url(/wp-content/plugins/bold-timeline-lite/assets/fonts/fontawesome-webfont.eot?v=4.6.3);
+    src: url(/wp-content/plugins/bold-timeline-lite/assets/fonts/fontawesome-webfont.eot#iefix&v=4.6.3) format('embedded-opentype'),url(/wp-content/plugins/bold-timeline-lite/assets/fonts/fontawesome-webfont.woff2?v=4.6.3) format('woff2'),url(/wp-content/plugins/bold-timeline-lite/assets/fonts/fontawesome-webfont.woff?v=4.6.3) format('woff'),url(/wp-content/plugins/bold-timeline-lite/assets/fonts/fontawesome-webfont.ttf?v=4.6.3) format('truetype'),url(/wp-content/plugins/bold-timeline-lite/assets/fonts/fontawesome-webfont.svg?v=4.6.3#fontawesomeregular) format('svg');
     font-weight: normal;
     font-style: normal;
     }
@@ -371,8 +371,8 @@
 /*  7-stroke (http://themes-pixeden.com/font-demos/7-stroke/index.html) */
 @font-face {
     font-family: 'Icon7Stroke';
-    src: url(./assets/fonts/Pe-icon-7-stroke.eot?d7yf1v);
-    src: url(./assets/fonts/Pe-icon-7-stroke.eot#iefixd7yf1v) format('embedded-opentype'),url(./assets/fonts/Pe-icon-7-stroke.woff?d7yf1v) format('woff'),url(./assets/fonts/Pe-icon-7-stroke.ttf?d7yf1v) format('truetype'),url(./assets/fonts/Pe-icon-7-stroke.svg?d7yf1v#Pe-icon-7-stroke) format('svg');
+    src: url(/wp-content/plugins/bold-timeline-lite/assets/fonts/Pe-icon-7-stroke.eot?d7yf1v);
+    src: url(/wp-content/plugins/bold-timeline-lite/assets/fonts/Pe-icon-7-stroke.eot#iefixd7yf1v) format('embedded-opentype'),url(/wp-content/plugins/bold-timeline-lite/assets/fonts/Pe-icon-7-stroke.woff?d7yf1v) format('woff'),url(/wp-content/plugins/bold-timeline-lite/assets/fonts/Pe-icon-7-stroke.ttf?d7yf1v) format('truetype'),url(/wp-content/plugins/bold-timeline-lite/assets/fonts/Pe-icon-7-stroke.svg?d7yf1v#Pe-icon-7-stroke) format('svg');
     font-weight: normal;
     font-style: normal;
     }
@@ -380,7 +380,7 @@
 /* FontAwesome5Brands */
 @font-face {
     font-family: 'FontAwesome5Brands';
-    src: url(./assets/fonts/FontAwesome5Brands.woff?v=1.1.1) format('woff'),url(./assets/fonts/FontAwesome5Brands.ttf?v=1.1.1) format('truetype');
+    src: url(/wp-content/plugins/bold-timeline-lite/assets/fonts/FontAwesome5Brands.woff?v=1.1.1) format('woff'),url(/wp-content/plugins/bold-timeline-lite/assets/fonts/FontAwesome5Brands.ttf?v=1.1.1) format('truetype');
     font-weight: normal;
     font-style: normal;
     }
@@ -388,8 +388,8 @@
 /* FontAwesome */
 @font-face {
     font-family: 'FontAwesome';
-    src: url(./assets/fonts/fontawesome-webfont.eot?v=4.6.3);
-    src: url(./assets/fonts/fontawesome-webfont.eot#iefix&v=4.6.3) format('embedded-opentype'),url(./assets/fonts/fontawesome-webfont.woff2?v=4.6.3) format('woff2'),url(./assets/fonts/fontawesome-webfont.woff?v=4.6.3) format('woff'),url(./assets/fonts/fontawesome-webfont.ttf?v=4.6.3) format('truetype'),url(./assets/fonts/fontawesome-webfont.svg?v=4.6.3#fontawesomeregular) format('svg');
+    src: url(/wp-content/plugins/bold-timeline-lite/assets/fonts/fontawesome-webfont.eot?v=4.6.3);
+    src: url(/wp-content/plugins/bold-timeline-lite/assets/fonts/fontawesome-webfont.eot#iefix&v=4.6.3) format('embedded-opentype'),url(/wp-content/plugins/bold-timeline-lite/assets/fonts/fontawesome-webfont.woff2?v=4.6.3) format('woff2'),url(/wp-content/plugins/bold-timeline-lite/assets/fonts/fontawesome-webfont.woff?v=4.6.3) format('woff'),url(/wp-content/plugins/bold-timeline-lite/assets/fonts/fontawesome-webfont.ttf?v=4.6.3) format('truetype'),url(/wp-content/plugins/bold-timeline-lite/assets/fonts/fontawesome-webfont.svg?v=4.6.3#fontawesomeregular) format('svg');
     font-weight: normal;
     font-style: normal;
     }
@@ -775,8 +775,8 @@
 /*  7-stroke (http://themes-pixeden.com/font-demos/7-stroke/index.html) */
 @font-face {
     font-family: 'Icon7Stroke';
-    src: url(./assets/fonts/Pe-icon-7-stroke.eot?d7yf1v);
-    src: url(./assets/fonts/Pe-icon-7-stroke.eot#iefixd7yf1v) format('embedded-opentype'),url(./assets/fonts/Pe-icon-7-stroke.woff?d7yf1v) format('woff'),url(./assets/fonts/Pe-icon-7-stroke.ttf?d7yf1v) format('truetype'),url(./assets/fonts/Pe-icon-7-stroke.svg?d7yf1v#Pe-icon-7-stroke) format('svg');
+    src: url(/wp-content/plugins/bold-timeline-lite/assets/fonts/Pe-icon-7-stroke.eot?d7yf1v);
+    src: url(/wp-content/plugins/bold-timeline-lite/assets/fonts/Pe-icon-7-stroke.eot#iefixd7yf1v) format('embedded-opentype'),url(/wp-content/plugins/bold-timeline-lite/assets/fonts/Pe-icon-7-stroke.woff?d7yf1v) format('woff'),url(/wp-content/plugins/bold-timeline-lite/assets/fonts/Pe-icon-7-stroke.ttf?d7yf1v) format('truetype'),url(/wp-content/plugins/bold-timeline-lite/assets/fonts/Pe-icon-7-stroke.svg?d7yf1v#Pe-icon-7-stroke) format('svg');
     font-weight: normal;
     font-style: normal;
     }
@@ -784,7 +784,7 @@
 /* FontAwesome5Brands */
 @font-face {
     font-family: 'FontAwesome5Brands';
-    src: url(./assets/fonts/FontAwesome5Brands.woff?v=1.1.1) format('woff'),url(./assets/fonts/FontAwesome5Brands.ttf?v=1.1.1) format('truetype');
+    src: url(/wp-content/plugins/bold-timeline-lite/assets/fonts/FontAwesome5Brands.woff?v=1.1.1) format('woff'),url(/wp-content/plugins/bold-timeline-lite/assets/fonts/FontAwesome5Brands.ttf?v=1.1.1) format('truetype');
     font-weight: normal;
     font-style: normal;
     }
@@ -792,8 +792,8 @@
 /* FontAwesome */
 @font-face {
     font-family: 'FontAwesome';
-    src: url(./assets/fonts/fontawesome-webfont.eot?v=4.6.3);
-    src: url(./assets/fonts/fontawesome-webfont.eot#iefix&v=4.6.3) format('embedded-opentype'),url(./assets/fonts/fontawesome-webfont.woff2?v=4.6.3) format('woff2'),url(./assets/fonts/fontawesome-webfont.woff?v=4.6.3) format('woff'),url(./assets/fonts/fontawesome-webfont.ttf?v=4.6.3) format('truetype'),url(./assets/fonts/fontawesome-webfont.svg?v=4.6.3#fontawesomeregular) format('svg');
+    src: url(/wp-content/plugins/bold-timeline-lite/assets/fonts/fontawesome-webfont.eot?v=4.6.3);
+    src: url(/wp-content/plugins/bold-timeline-lite/assets/fonts/fontawesome-webfont.eot#iefix&v=4.6.3) format('embedded-opentype'),url(/wp-content/plugins/bold-timeline-lite/assets/fonts/fontawesome-webfont.woff2?v=4.6.3) format('woff2'),url(/wp-content/plugins/bold-timeline-lite/assets/fonts/fontawesome-webfont.woff?v=4.6.3) format('woff'),url(/wp-content/plugins/bold-timeline-lite/assets/fonts/fontawesome-webfont.ttf?v=4.6.3) format('truetype'),url(/wp-content/plugins/bold-timeline-lite/assets/fonts/fontawesome-webfont.svg?v=4.6.3#fontawesomeregular) format('svg');
     font-weight: normal;
     font-style: normal;
     }
@@ -2532,8 +2532,8 @@ TODO: Zavrsiti ovaj deo (problem sa overflow: hidden; na zaobljenim itemima)
 /*  7-stroke (http://themes-pixeden.com/font-demos/7-stroke/index.html) */
 @font-face {
     font-family: 'Icon7Stroke';
-    src: url(./assets/fonts/Pe-icon-7-stroke.eot?d7yf1v);
-    src: url(./assets/fonts/Pe-icon-7-stroke.eot#iefixd7yf1v) format('embedded-opentype'),url(./assets/fonts/Pe-icon-7-stroke.woff?d7yf1v) format('woff'),url(./assets/fonts/Pe-icon-7-stroke.ttf?d7yf1v) format('truetype'),url(./assets/fonts/Pe-icon-7-stroke.svg?d7yf1v#Pe-icon-7-stroke) format('svg');
+    src: url(/wp-content/plugins/bold-timeline-lite/assets/fonts/Pe-icon-7-stroke.eot?d7yf1v);
+    src: url(/wp-content/plugins/bold-timeline-lite/assets/fonts/Pe-icon-7-stroke.eot#iefixd7yf1v) format('embedded-opentype'),url(/wp-content/plugins/bold-timeline-lite/assets/fonts/Pe-icon-7-stroke.woff?d7yf1v) format('woff'),url(/wp-content/plugins/bold-timeline-lite/assets/fonts/Pe-icon-7-stroke.ttf?d7yf1v) format('truetype'),url(/wp-content/plugins/bold-timeline-lite/assets/fonts/Pe-icon-7-stroke.svg?d7yf1v#Pe-icon-7-stroke) format('svg');
     font-weight: normal;
     font-style: normal;
     }
@@ -2541,7 +2541,7 @@ TODO: Zavrsiti ovaj deo (problem sa overflow: hidden; na zaobljenim itemima)
 /* FontAwesome5Brands */
 @font-face {
     font-family: 'FontAwesome5Brands';
-    src: url(./assets/fonts/FontAwesome5Brands.woff?v=1.1.1) format('woff'),url(./assets/fonts/FontAwesome5Brands.ttf?v=1.1.1) format('truetype');
+    src: url(/wp-content/plugins/bold-timeline-lite/assets/fonts/FontAwesome5Brands.woff?v=1.1.1) format('woff'),url(/wp-content/plugins/bold-timeline-lite/assets/fonts/FontAwesome5Brands.ttf?v=1.1.1) format('truetype');
     font-weight: normal;
     font-style: normal;
     }
@@ -2549,8 +2549,8 @@ TODO: Zavrsiti ovaj deo (problem sa overflow: hidden; na zaobljenim itemima)
 /* FontAwesome */
 @font-face {
     font-family: 'FontAwesome';
-    src: url(./assets/fonts/fontawesome-webfont.eot?v=4.6.3);
-    src: url(./assets/fonts/fontawesome-webfont.eot#iefix&v=4.6.3) format('embedded-opentype'),url(./assets/fonts/fontawesome-webfont.woff2?v=4.6.3) format('woff2'),url(./assets/fonts/fontawesome-webfont.woff?v=4.6.3) format('woff'),url(./assets/fonts/fontawesome-webfont.ttf?v=4.6.3) format('truetype'),url(./assets/fonts/fontawesome-webfont.svg?v=4.6.3#fontawesomeregular) format('svg');
+    src: url(/wp-content/plugins/bold-timeline-lite/assets/fonts/fontawesome-webfont.eot?v=4.6.3);
+    src: url(/wp-content/plugins/bold-timeline-lite/assets/fonts/fontawesome-webfont.eot#iefix&v=4.6.3) format('embedded-opentype'),url(/wp-content/plugins/bold-timeline-lite/assets/fonts/fontawesome-webfont.woff2?v=4.6.3) format('woff2'),url(/wp-content/plugins/bold-timeline-lite/assets/fonts/fontawesome-webfont.woff?v=4.6.3) format('woff'),url(/wp-content/plugins/bold-timeline-lite/assets/fonts/fontawesome-webfont.ttf?v=4.6.3) format('truetype'),url(/wp-content/plugins/bold-timeline-lite/assets/fonts/fontawesome-webfont.svg?v=4.6.3#fontawesomeregular) format('svg');
     font-weight: normal;
     font-style: normal;
     }
@@ -2971,8 +2971,8 @@ TODO: Zavrsiti ovaj deo (problem sa overflow: hidden; na zaobljenim itemima)
 /*  7-stroke (http://themes-pixeden.com/font-demos/7-stroke/index.html) */
 @font-face {
     font-family: 'Icon7Stroke';
-    src: url(./assets/fonts/Pe-icon-7-stroke.eot?d7yf1v);
-    src: url(./assets/fonts/Pe-icon-7-stroke.eot#iefixd7yf1v) format('embedded-opentype'),url(./assets/fonts/Pe-icon-7-stroke.woff?d7yf1v) format('woff'),url(./assets/fonts/Pe-icon-7-stroke.ttf?d7yf1v) format('truetype'),url(./assets/fonts/Pe-icon-7-stroke.svg?d7yf1v#Pe-icon-7-stroke) format('svg');
+    src: url(/wp-content/plugins/bold-timeline-lite/assets/fonts/Pe-icon-7-stroke.eot?d7yf1v);
+    src: url(/wp-content/plugins/bold-timeline-lite/assets/fonts/Pe-icon-7-stroke.eot#iefixd7yf1v) format('embedded-opentype'),url(/wp-content/plugins/bold-timeline-lite/assets/fonts/Pe-icon-7-stroke.woff?d7yf1v) format('woff'),url(/wp-content/plugins/bold-timeline-lite/assets/fonts/Pe-icon-7-stroke.ttf?d7yf1v) format('truetype'),url(/wp-content/plugins/bold-timeline-lite/assets/fonts/Pe-icon-7-stroke.svg?d7yf1v#Pe-icon-7-stroke) format('svg');
     font-weight: normal;
     font-style: normal;
     }
@@ -2980,7 +2980,7 @@ TODO: Zavrsiti ovaj deo (problem sa overflow: hidden; na zaobljenim itemima)
 /* FontAwesome5Brands */
 @font-face {
     font-family: 'FontAwesome5Brands';
-    src: url(./assets/fonts/FontAwesome5Brands.woff?v=1.1.1) format('woff'),url(./assets/fonts/FontAwesome5Brands.ttf?v=1.1.1) format('truetype');
+    src: url(/wp-content/plugins/bold-timeline-lite/assets/fonts/FontAwesome5Brands.woff?v=1.1.1) format('woff'),url(/wp-content/plugins/bold-timeline-lite/assets/fonts/FontAwesome5Brands.ttf?v=1.1.1) format('truetype');
     font-weight: normal;
     font-style: normal;
     }
@@ -2988,8 +2988,8 @@ TODO: Zavrsiti ovaj deo (problem sa overflow: hidden; na zaobljenim itemima)
 /* FontAwesome */
 @font-face {
     font-family: 'FontAwesome';
-    src: url(./assets/fonts/fontawesome-webfont.eot?v=4.6.3);
-    src: url(./assets/fonts/fontawesome-webfont.eot#iefix&v=4.6.3) format('embedded-opentype'),url(./assets/fonts/fontawesome-webfont.woff2?v=4.6.3) format('woff2'),url(./assets/fonts/fontawesome-webfont.woff?v=4.6.3) format('woff'),url(./assets/fonts/fontawesome-webfont.ttf?v=4.6.3) format('truetype'),url(./assets/fonts/fontawesome-webfont.svg?v=4.6.3#fontawesomeregular) format('svg');
+    src: url(/wp-content/plugins/bold-timeline-lite/assets/fonts/fontawesome-webfont.eot?v=4.6.3);
+    src: url(/wp-content/plugins/bold-timeline-lite/assets/fonts/fontawesome-webfont.eot#iefix&v=4.6.3) format('embedded-opentype'),url(/wp-content/plugins/bold-timeline-lite/assets/fonts/fontawesome-webfont.woff2?v=4.6.3) format('woff2'),url(/wp-content/plugins/bold-timeline-lite/assets/fonts/fontawesome-webfont.woff?v=4.6.3) format('woff'),url(/wp-content/plugins/bold-timeline-lite/assets/fonts/fontawesome-webfont.ttf?v=4.6.3) format('truetype'),url(/wp-content/plugins/bold-timeline-lite/assets/fonts/fontawesome-webfont.svg?v=4.6.3#fontawesomeregular) format('svg');
     font-weight: normal;
     font-style: normal;
     }
@@ -3113,6 +3113,6 @@ TODO: Zavrsiti ovaj deo (problem sa overflow: hidden; na zaobljenim itemima)
     display: inline-block;
     }
 
-/*@import url("./assets/scss/separator.crush.scss");*/
+/*@import url("/wp-content/plugins/bold-timeline-lite/assets/scss/separator.crush.scss");*/
 
 /*# sourceMappingURL=style.css.map */

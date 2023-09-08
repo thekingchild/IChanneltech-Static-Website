@@ -8,14 +8,14 @@
 <channel>
 	<title>
 	Comments on: Internet disruptions overview for Q3 2022	</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../index.html?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=internet-disruptions-overview-for-q3-2022</link>
+	<atom:link href="/internet-disruptions-overview-for-q3-2022/feed/" rel="self" type="application/rss+xml" />
+	<link>/internet-disruptions-overview-for-q3-2022/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=internet-disruptions-overview-for-q3-2022</link>
 	<description>Software, Cloud Solutions and IT Consulting</description>
 	<lastBuildDate>Thu, 20 Oct 2022 10:10:34 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.2</generator>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
 </channel>
 </rss>

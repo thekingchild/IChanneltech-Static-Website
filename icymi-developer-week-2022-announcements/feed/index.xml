@@ -8,14 +8,14 @@
 <channel>
 	<title>
 	Comments on: ICYMI: Developer Week 2022 announcements	</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../index.html?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=icymi-developer-week-2022-announcements</link>
+	<atom:link href="/icymi-developer-week-2022-announcements/feed/" rel="self" type="application/rss+xml" />
+	<link>/icymi-developer-week-2022-announcements/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=icymi-developer-week-2022-announcements</link>
 	<description>Software, Cloud Solutions and IT Consulting</description>
 	<lastBuildDate>Mon, 21 Nov 2022 10:44:50 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.2</generator>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
 </channel>
 </rss>

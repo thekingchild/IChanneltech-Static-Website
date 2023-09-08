@@ -8,14 +8,14 @@
 <channel>
 	<title>
 	Comments on: Page Shield can now watch for malicious outbound connections made by third-party JavaScript code	</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../index.html?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=page-shield-can-now-watch-for-malicious-outbound-connections-made-by-third-party-javascript-code</link>
+	<atom:link href="/page-shield-can-now-watch-for-malicious-outbound-connections-made-by-third-party-javascript-code/feed/" rel="self" type="application/rss+xml" />
+	<link>/page-shield-can-now-watch-for-malicious-outbound-connections-made-by-third-party-javascript-code/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=page-shield-can-now-watch-for-malicious-outbound-connections-made-by-third-party-javascript-code</link>
 	<description>Software, Cloud Solutions and IT Consulting</description>
 	<lastBuildDate>Mon, 24 Oct 2022 10:11:38 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.2</generator>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
 </channel>
 </rss>

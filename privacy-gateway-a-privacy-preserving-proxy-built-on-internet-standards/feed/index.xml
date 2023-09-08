@@ -8,14 +8,14 @@
 <channel>
 	<title>
 	Comments on: Privacy Gateway: a privacy preserving proxy built on Internet standards	</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../index.html?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=privacy-gateway-a-privacy-preserving-proxy-built-on-internet-standards</link>
+	<atom:link href="/privacy-gateway-a-privacy-preserving-proxy-built-on-internet-standards/feed/" rel="self" type="application/rss+xml" />
+	<link>/privacy-gateway-a-privacy-preserving-proxy-built-on-internet-standards/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=privacy-gateway-a-privacy-preserving-proxy-built-on-internet-standards</link>
 	<description>Software, Cloud Solutions and IT Consulting</description>
 	<lastBuildDate>Fri, 28 Oct 2022 10:15:33 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.2</generator>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
 </channel>
 </rss>

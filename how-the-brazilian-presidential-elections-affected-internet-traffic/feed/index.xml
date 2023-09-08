@@ -8,14 +8,14 @@
 <channel>
 	<title>
 	Comments on: How the Brazilian Presidential elections affected Internet traffic	</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../index.html?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=how-the-brazilian-presidential-elections-affected-internet-traffic</link>
+	<atom:link href="/how-the-brazilian-presidential-elections-affected-internet-traffic/feed/" rel="self" type="application/rss+xml" />
+	<link>/how-the-brazilian-presidential-elections-affected-internet-traffic/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=how-the-brazilian-presidential-elections-affected-internet-traffic</link>
 	<description>Software, Cloud Solutions and IT Consulting</description>
 	<lastBuildDate>Sat, 05 Nov 2022 10:20:51 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.2</generator>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
 </channel>
 </rss>

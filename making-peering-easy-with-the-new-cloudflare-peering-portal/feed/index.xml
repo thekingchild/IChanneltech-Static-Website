@@ -8,14 +8,14 @@
 <channel>
 	<title>
 	Comments on: Making peering easy with the new Cloudflare Peering Portal	</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../index.html?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=making-peering-easy-with-the-new-cloudflare-peering-portal</link>
+	<atom:link href="/making-peering-easy-with-the-new-cloudflare-peering-portal/feed/" rel="self" type="application/rss+xml" />
+	<link>/making-peering-easy-with-the-new-cloudflare-peering-portal/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=making-peering-easy-with-the-new-cloudflare-peering-portal</link>
 	<description>Software, Cloud Solutions and IT Consulting</description>
 	<lastBuildDate>Wed, 19 Oct 2022 23:46:37 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.2</generator>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
 </channel>
 </rss>

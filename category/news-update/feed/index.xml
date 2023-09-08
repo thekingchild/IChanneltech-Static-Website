@@ -9,8 +9,8 @@
 
 <channel>
 	<title>News Update - IChannel Technologies</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../../../index.html</link>
+	<atom:link href="/category/news-update/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Software, Cloud Solutions and IT Consulting</description>
 	<lastBuildDate>Mon, 21 Nov 2022 10:44:50 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -18,167 +18,167 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.2</generator>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
 
 <image>
-	<url>./../../../wp-content/uploads/2022/09/cropped-Box-logo-32x32.jpg</url>
+	<url>/wp-content/uploads/2022/09/cropped-Box-logo-32x32.jpg</url>
 	<title>News Update - IChannel Technologies</title>
-	<link>./../../../index.html</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>ICYMI: Developer Week 2022 announcements</title>
-		<link>./../../../icymi-developer-week-2022-announcements/index.html?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=icymi-developer-week-2022-announcements</link>
+		<link>/icymi-developer-week-2022-announcements/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=icymi-developer-week-2022-announcements</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Mon, 21 Nov 2022 10:44:50 +0000</pubDate>
 				<category><![CDATA[News Update]]></category>
-		<guid isPermaLink="false">./../../../icymi-developer-week-2022-announcements/index.html</guid>
+		<guid isPermaLink="false">/icymi-developer-week-2022-announcements/</guid>
 
 					<description><![CDATA[<p>Developer Week 2022 has come to a close. Over the last week we’ve shared with you 31 posts on what you can build on Cloudflare and our vision and roadmap on where we’re headed. We shared product announcements, customer and partner stories, and provided technical deep dives. In case you missed any of the posts...</p>
-<p>The post <a href="./../../../icymi-developer-week-2022-announcements/index.html">ICYMI: Developer Week 2022 announcements</a> first appeared on <a href="./../../../index.html">IChannel Technologies</a>.</p>]]></description>
+<p>The post <a href="/icymi-developer-week-2022-announcements/">ICYMI: Developer Week 2022 announcements</a> first appeared on <a href="/">IChannel Technologies</a>.</p>]]></description>
 		
 		
 		
 			</item>
 		<item>
 		<title>UPDATE Supercloud SET status = &#039;open alpha&#039; WHERE product = &#039;D1&#039;;</title>
-		<link>./../../../update-supercloud-set-status-open-alpha-where-product-d1/index.html?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=update-supercloud-set-status-open-alpha-where-product-d1</link>
+		<link>/update-supercloud-set-status-open-alpha-where-product-d1/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=update-supercloud-set-status-open-alpha-where-product-d1</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 17 Nov 2022 10:40:01 +0000</pubDate>
 				<category><![CDATA[News Update]]></category>
-		<guid isPermaLink="false">./../../../update-supercloud-set-status-open-alpha-where-product-d1/index.html</guid>
+		<guid isPermaLink="false">/update-supercloud-set-status-open-alpha-where-product-d1/</guid>
 
 					<description><![CDATA[<p>In May 2022, we announced our quest to simplify databases – building them, maintaining them, integrating them. Our goal is to empower you with the tools to run a database that is powerful, scalable, with world-beating performance without any hassle. And we first set our sights on reimagining the database development experience for every type...</p>
-<p>The post <a href="./../../../update-supercloud-set-status-open-alpha-where-product-d1/index.html">UPDATE Supercloud SET status = 'open alpha' WHERE product = 'D1';</a> first appeared on <a href="./../../../index.html">IChannel Technologies</a>.</p>]]></description>
+<p>The post <a href="/update-supercloud-set-status-open-alpha-where-product-d1/">UPDATE Supercloud SET status = 'open alpha' WHERE product = 'D1';</a> first appeared on <a href="/">IChannel Technologies</a>.</p>]]></description>
 		
 		
 		
 			</item>
 		<item>
 		<title>2022 US midterm elections attack analysis</title>
-		<link>./../../../2022-us-midterm-elections-attack-analysis/index.html?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=2022-us-midterm-elections-attack-analysis</link>
+		<link>/2022-us-midterm-elections-attack-analysis/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=2022-us-midterm-elections-attack-analysis</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Sun, 13 Nov 2022 10:36:36 +0000</pubDate>
 				<category><![CDATA[News Update]]></category>
-		<guid isPermaLink="false">./../../../2022-us-midterm-elections-attack-analysis/index.html</guid>
+		<guid isPermaLink="false">/2022-us-midterm-elections-attack-analysis/</guid>
 
 					<description><![CDATA[<p>Through Cloudflare’s Impact programs, we provide cyber security products to help protect access to authoritative voting information and the security of sensitive voter data. Two core programs in this space are the Athenian Project, dedicated to protecting state and local governments that run elections, and Cloudflare for Campaigns, a project with a suite of Cloudflare...</p>
-<p>The post <a href="./../../../2022-us-midterm-elections-attack-analysis/index.html">2022 US midterm elections attack analysis</a> first appeared on <a href="./../../../index.html">IChannel Technologies</a>.</p>]]></description>
+<p>The post <a href="/2022-us-midterm-elections-attack-analysis/">2022 US midterm elections attack analysis</a> first appeared on <a href="/">IChannel Technologies</a>.</p>]]></description>
 		
 		
 		
 			</item>
 		<item>
 		<title>Cloudflare is not affected by the OpenSSL vulnerabilities CVE-2022-3602 and CVE-2022-3786</title>
-		<link>./../../../cloudflare-is-not-affected-by-the-openssl-vulnerabilities-cve-2022-3602-and-cve-2022-3786/index.html?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=cloudflare-is-not-affected-by-the-openssl-vulnerabilities-cve-2022-3602-and-cve-2022-3786</link>
+		<link>/cloudflare-is-not-affected-by-the-openssl-vulnerabilities-cve-2022-3602-and-cve-2022-3786/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=cloudflare-is-not-affected-by-the-openssl-vulnerabilities-cve-2022-3602-and-cve-2022-3786</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Wed, 09 Nov 2022 10:29:14 +0000</pubDate>
 				<category><![CDATA[News Update]]></category>
-		<guid isPermaLink="false">./../../../cloudflare-is-not-affected-by-the-openssl-vulnerabilities-cve-2022-3602-and-cve-2022-3786/index.html</guid>
+		<guid isPermaLink="false">/cloudflare-is-not-affected-by-the-openssl-vulnerabilities-cve-2022-3602-and-cve-2022-3786/</guid>
 
 					<description><![CDATA[<p>Yesterday, November 1, 2022, OpenSSL released version 3.0.7 to patch CVE-2022-3602 and CVE-2022-3786, two HIGH risk vulnerabilities in the OpenSSL 3.0.x cryptographic library. Cloudflare is not affected by these vulnerabilities because we use BoringSSL in our products. These vulnerabilities are memory corruption issues, in which attackers may be able to execute arbitrary code on a...</p>
-<p>The post <a href="./../../../cloudflare-is-not-affected-by-the-openssl-vulnerabilities-cve-2022-3602-and-cve-2022-3786/index.html">Cloudflare is not affected by the OpenSSL vulnerabilities CVE-2022-3602 and CVE-2022-3786</a> first appeared on <a href="./../../../index.html">IChannel Technologies</a>.</p>]]></description>
+<p>The post <a href="/cloudflare-is-not-affected-by-the-openssl-vulnerabilities-cve-2022-3602-and-cve-2022-3786/">Cloudflare is not affected by the OpenSSL vulnerabilities CVE-2022-3602 and CVE-2022-3786</a> first appeared on <a href="/">IChannel Technologies</a>.</p>]]></description>
 		
 		
 		
 			</item>
 		<item>
 		<title>How the Brazilian Presidential elections affected Internet traffic</title>
-		<link>./../../../how-the-brazilian-presidential-elections-affected-internet-traffic/index.html?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=how-the-brazilian-presidential-elections-affected-internet-traffic</link>
+		<link>/how-the-brazilian-presidential-elections-affected-internet-traffic/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=how-the-brazilian-presidential-elections-affected-internet-traffic</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Sat, 05 Nov 2022 10:20:51 +0000</pubDate>
 				<category><![CDATA[News Update]]></category>
-		<guid isPermaLink="false">./../../../how-the-brazilian-presidential-elections-affected-internet-traffic/index.html</guid>
+		<guid isPermaLink="false">/how-the-brazilian-presidential-elections-affected-internet-traffic/</guid>
 
 					<description><![CDATA[<p>Brasil, sei láOu o meu coração se enganaOu uma terra igual não há— From Tom Jobim’s song, Brasil Nativo Brazil’s recent presidential election got significant attention from both global and national media outlets, not only because of the size of the country, but also because of premature allegations of electoral fraud. The first round of...</p>
-<p>The post <a href="./../../../how-the-brazilian-presidential-elections-affected-internet-traffic/index.html">How the Brazilian Presidential elections affected Internet traffic</a> first appeared on <a href="./../../../index.html">IChannel Technologies</a>.</p>]]></description>
+<p>The post <a href="/how-the-brazilian-presidential-elections-affected-internet-traffic/">How the Brazilian Presidential elections affected Internet traffic</a> first appeared on <a href="/">IChannel Technologies</a>.</p>]]></description>
 		
 		
 		
 			</item>
 		<item>
 		<title>Stronger than a promise: proving Oblivious HTTP privacy properties</title>
-		<link>./../../../stronger-than-a-promise-proving-oblivious-http-privacy-properties/index.html?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=stronger-than-a-promise-proving-oblivious-http-privacy-properties</link>
+		<link>/stronger-than-a-promise-proving-oblivious-http-privacy-properties/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=stronger-than-a-promise-proving-oblivious-http-privacy-properties</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Tue, 01 Nov 2022 10:20:13 +0000</pubDate>
 				<category><![CDATA[News Update]]></category>
-		<guid isPermaLink="false">./../../../stronger-than-a-promise-proving-oblivious-http-privacy-properties/index.html</guid>
+		<guid isPermaLink="false">/stronger-than-a-promise-proving-oblivious-http-privacy-properties/</guid>
 
 					<description><![CDATA[<p>We recently announced Privacy Gateway, a fully managed, scalable, and performant Oblivious HTTP (OHTTP) relay. Conceptually, OHTTP is a simple protocol: end-to-end encrypted requests and responses are forwarded between client and server through a relay, decoupling who from what was sent. This is a common pattern, as evidenced by deployed technologies like Oblivious DoH and...</p>
-<p>The post <a href="./../../../stronger-than-a-promise-proving-oblivious-http-privacy-properties/index.html">Stronger than a promise: proving Oblivious HTTP privacy properties</a> first appeared on <a href="./../../../index.html">IChannel Technologies</a>.</p>]]></description>
+<p>The post <a href="/stronger-than-a-promise-proving-oblivious-http-privacy-properties/">Stronger than a promise: proving Oblivious HTTP privacy properties</a> first appeared on <a href="/">IChannel Technologies</a>.</p>]]></description>
 		
 		
 		
 			</item>
 		<item>
 		<title>Privacy Gateway: a privacy preserving proxy built on Internet standards</title>
-		<link>./../../../privacy-gateway-a-privacy-preserving-proxy-built-on-internet-standards/index.html?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=privacy-gateway-a-privacy-preserving-proxy-built-on-internet-standards</link>
+		<link>/privacy-gateway-a-privacy-preserving-proxy-built-on-internet-standards/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=privacy-gateway-a-privacy-preserving-proxy-built-on-internet-standards</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 28 Oct 2022 10:15:33 +0000</pubDate>
 				<category><![CDATA[News Update]]></category>
-		<guid isPermaLink="false">./../../../privacy-gateway-a-privacy-preserving-proxy-built-on-internet-standards/index.html</guid>
+		<guid isPermaLink="false">/privacy-gateway-a-privacy-preserving-proxy-built-on-internet-standards/</guid>
 
 					<description><![CDATA[<p>If you’re running a privacy-oriented application or service on the Internet, your options to provably protect users’ privacy are limited. You can minimize logs and data collection but even then, at a network level, every HTTP request needs to come from somewhere. Information generated by HTTP requests, like users’ IP addresses and TLS fingerprints, can...</p>
-<p>The post <a href="./../../../privacy-gateway-a-privacy-preserving-proxy-built-on-internet-standards/index.html">Privacy Gateway: a privacy preserving proxy built on Internet standards</a> first appeared on <a href="./../../../index.html">IChannel Technologies</a>.</p>]]></description>
+<p>The post <a href="/privacy-gateway-a-privacy-preserving-proxy-built-on-internet-standards/">Privacy Gateway: a privacy preserving proxy built on Internet standards</a> first appeared on <a href="/">IChannel Technologies</a>.</p>]]></description>
 		
 		
 		
 			</item>
 		<item>
 		<title>Page Shield can now watch for malicious outbound connections made by third-party JavaScript code</title>
-		<link>./../../../page-shield-can-now-watch-for-malicious-outbound-connections-made-by-third-party-javascript-code/index.html?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=page-shield-can-now-watch-for-malicious-outbound-connections-made-by-third-party-javascript-code</link>
+		<link>/page-shield-can-now-watch-for-malicious-outbound-connections-made-by-third-party-javascript-code/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=page-shield-can-now-watch-for-malicious-outbound-connections-made-by-third-party-javascript-code</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Mon, 24 Oct 2022 10:11:38 +0000</pubDate>
 				<category><![CDATA[News Update]]></category>
-		<guid isPermaLink="false">./../../../page-shield-can-now-watch-for-malicious-outbound-connections-made-by-third-party-javascript-code/index.html</guid>
+		<guid isPermaLink="false">/page-shield-can-now-watch-for-malicious-outbound-connections-made-by-third-party-javascript-code/</guid>
 
 					<description><![CDATA[<p>Page Shield can now watch for malicious outbound connections made by third-party JavaScript code Many websites use third party JavaScript libraries to cut development time by using pre-built features. Common examples include checkout services, analytics tools, or live chat integrations. Any one of these JavaScript libraries may be sending site visitors’ data to unknown locations....</p>
-<p>The post <a href="./../../../page-shield-can-now-watch-for-malicious-outbound-connections-made-by-third-party-javascript-code/index.html">Page Shield can now watch for malicious outbound connections made by third-party JavaScript code</a> first appeared on <a href="./../../../index.html">IChannel Technologies</a>.</p>]]></description>
+<p>The post <a href="/page-shield-can-now-watch-for-malicious-outbound-connections-made-by-third-party-javascript-code/">Page Shield can now watch for malicious outbound connections made by third-party JavaScript code</a> first appeared on <a href="/">IChannel Technologies</a>.</p>]]></description>
 		
 		
 		
 			</item>
 		<item>
 		<title>Internet disruptions overview for Q3 2022</title>
-		<link>./../../../internet-disruptions-overview-for-q3-2022/index.html?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=internet-disruptions-overview-for-q3-2022</link>
-					<comments>./../../../internet-disruptions-overview-for-q3-2022/index.html#respond</comments>
+		<link>/internet-disruptions-overview-for-q3-2022/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=internet-disruptions-overview-for-q3-2022</link>
+					<comments>/internet-disruptions-overview-for-q3-2022/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 20 Oct 2022 10:10:34 +0000</pubDate>
 				<category><![CDATA[News Update]]></category>
-		<guid isPermaLink="false">./../../../internet-disruptions-overview-for-q3-2022/index.html</guid>
+		<guid isPermaLink="false">/internet-disruptions-overview-for-q3-2022/</guid>
 
 					<description><![CDATA[<p>Cloudflare operates in more than 275 cities in over 100 countries, where we interconnect with over 10,000 network providers in order to provide a broad range of services to millions of customers. The breadth of both our network and our customer base provides us with a unique perspective on Internet resilience, enabling us to observe...</p>
-<p>The post <a href="./../../../internet-disruptions-overview-for-q3-2022/index.html">Internet disruptions overview for Q3 2022</a> first appeared on <a href="./../../../index.html">IChannel Technologies</a>.</p>]]></description>
+<p>The post <a href="/internet-disruptions-overview-for-q3-2022/">Internet disruptions overview for Q3 2022</a> first appeared on <a href="/">IChannel Technologies</a>.</p>]]></description>
 		
-					<wfw:commentRss>./../../../internet-disruptions-overview-for-q3-2022/feed/index.html</wfw:commentRss>
+					<wfw:commentRss>/internet-disruptions-overview-for-q3-2022/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Making peering easy with the new Cloudflare Peering Portal</title>
-		<link>./../../../making-peering-easy-with-the-new-cloudflare-peering-portal/index.html?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=making-peering-easy-with-the-new-cloudflare-peering-portal</link>
-					<comments>./../../../making-peering-easy-with-the-new-cloudflare-peering-portal/index.html#respond</comments>
+		<link>/making-peering-easy-with-the-new-cloudflare-peering-portal/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=making-peering-easy-with-the-new-cloudflare-peering-portal</link>
+					<comments>/making-peering-easy-with-the-new-cloudflare-peering-portal/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Wed, 19 Oct 2022 23:30:38 +0000</pubDate>
 				<category><![CDATA[News Update]]></category>
-		<guid isPermaLink="false">./../../../making-peering-easy-with-the-new-cloudflare-peering-portal/index.html</guid>
+		<guid isPermaLink="false">/making-peering-easy-with-the-new-cloudflare-peering-portal/</guid>
 
 					<description><![CDATA[<p>&#160; &#160; In 2018, we launched the Cloudflare Peering Portal, which allows network operators to see where your traffic is coming from and to identify the best possible places to interconnect with Cloudflare. We’re excited to announce that we’ve made it even easier to interconnect with Cloudflare through this portal by removing Cloudflare-specific logins and...</p>
-<p>The post <a href="./../../../making-peering-easy-with-the-new-cloudflare-peering-portal/index.html">Making peering easy with the new Cloudflare Peering Portal</a> first appeared on <a href="./../../../index.html">IChannel Technologies</a>.</p>]]></description>
+<p>The post <a href="/making-peering-easy-with-the-new-cloudflare-peering-portal/">Making peering easy with the new Cloudflare Peering Portal</a> first appeared on <a href="/">IChannel Technologies</a>.</p>]]></description>
 		
-					<wfw:commentRss>./../../../making-peering-easy-with-the-new-cloudflare-peering-portal/feed/index.html</wfw:commentRss>
+					<wfw:commentRss>/making-peering-easy-with-the-new-cloudflare-peering-portal/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

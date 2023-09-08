@@ -8,14 +8,14 @@
 <channel>
 	<title>
 	Comments for IChannel Technologies	</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../../index.html</link>
+	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Software, Cloud Solutions and IT Consulting</description>
-	<lastBuildDate>Sat, 18 Mar 2023 06:55:09 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 08 Sep 2023 17:45:15 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.2</generator>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
 </channel>
 </rss>
